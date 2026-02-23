@@ -1,6 +1,6 @@
-**Wio Tracker L1 vs. SenseCAP Card Tracker T1000-E**
+### Wio Tracker L1 vs. SenseCAP Card Tracker T1000-E
 
-**Introduction and limitations**
+## Introduction and limitations
 
 Scope, approach, time limitations, and overall laziness — all of this contributes to the
 not-that-scientific level of tests that I would like to present to the community.
@@ -9,7 +9,7 @@ However, considering all of this, I've tried my best to measure both devices acc
 and under similar conditions.
 
 
-**Test setup**
+## Test setup
 
 Both devices were positioned in the same place behind the window. Strong rain stopped me from doing it properly, so this test will be called "beta" — because it's better than nothing.
 
@@ -22,14 +22,14 @@ Wio L1 was fitted with a kinda-okay ~19 cm portable antenna from Amazon (10 euro
 T1000-E has a built-in antenna.
 
 
-**Results**
+## Results
 
-***Wio Tracker L1***
+### Wio Tracker L1
 
 ****5.375 dBm there | 11.28125 dBm here****
 
 
-***SenseCAP Card Tracker T1000-E***
+### SenseCAP Card Tracker T1000-E
 
 At first the results were not looking great at all. After collecting samples, I got the following numbers:
 
