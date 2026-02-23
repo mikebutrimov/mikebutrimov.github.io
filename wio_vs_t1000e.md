@@ -26,14 +26,14 @@ T1000-E has a built-in antenna.
 
 ***Wio Tracker L1***
 
-5.375 dBm there | 11.28125 dBm here
+****5.375 dBm there | 11.28125 dBm here****
 
 
 ***SenseCAP Card Tracker T1000-E***
 
 At first the results were not looking great at all. After collecting samples, I got the following numbers:
 
-2.1 dBm there | 9.6 dBm here
+****2.1 dBm there | 9.6 dBm here****
 
 I expected this — it fits well into what I thought the results should be: a small built-in antenna isn't even remotely close to a proper external antenna. But I had a feeling I was missing something.
 
@@ -41,7 +41,7 @@ Orientation! Both antennas were oriented vertically, but the T1000-E antenna can
 
 So I turned the T1000-E 90 degrees and ran the tests again.
 
-6.0625 dBm there | 10.25 dBm here
+****6.0625 dBm there | 10.25 dBm here****
 
 The observed improvement after rotating the device likely results from changes in radiation pattern interaction with the nearby window surface and multipath reflections.
 
