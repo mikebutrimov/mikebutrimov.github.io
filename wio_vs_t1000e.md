@@ -115,7 +115,7 @@ Measured mass with this case and 700 mAh battery: 56 g.
 
 **Location 4**
 
-| **Remote: −8.72 dBm** | **Local: 9.81 dBm** |
+| **Remote: −8.69 dBm** | **Local: 9.81 dBm** |
 
 
 
