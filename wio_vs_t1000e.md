@@ -77,21 +77,6 @@ In the first three locations I was facing the exact direction of the repeater an
 
 Measured mass with this case and 3000 mAh battery: 135 g.
 
-**Location 1**
-
-| **Remote: 9.44 dBm** | **Local: 12.31 dBm** |
-
-**Location 2**
-
-| **Remote: −1.63 dBm** | **Local: 12.05 dBm** |
-
-**Location 3**
-
-| **Remote: 7.79 dBm** | **Local: 12.36 dBm** |
-
-**Location 4**
-
-| **Remote: −7.07 dBm** | **Local: 10.79 dBm** |
 
 
 
@@ -101,21 +86,6 @@ Measured mass with this case and 3000 mAh battery: 135 g.
 
 Measured mass with this case and 700 mAh battery: 56 g.
 
-**Location 1**
-
-| **Remote: 8.56 dBm** | **Local: 14.81 dBm** |
-
-**Location 2**
-
-| **Remote: −4.23 dBm** | **Local: 13.75 dBm** |
-
-**Location 3**
-
-| **Remote: 5.15 dBm** | **Local: 14.95 dBm** |
-
-**Location 4**
-
-| **Remote: −8.69 dBm** | **Local: 9.81 dBm** |
 
 
 
