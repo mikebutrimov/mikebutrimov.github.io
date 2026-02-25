@@ -26,10 +26,13 @@ T1000-E has a built-in antenna.
 
 ### Wio Tracker L1
 
+<img src="assets/wio_t10000/wio_1.jpg" width="400">
+
 ****5.375 dBm there | 11.28125 dBm here****
 
 
 ### SenseCAP Card Tracker T1000-E
+<img src="assets/wio_t10000/t1000-e_1.jpg" width="400">
 
 At first the results were not looking great at all. After collecting samples, I got the following numbers:
 
