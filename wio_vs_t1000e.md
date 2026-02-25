@@ -28,7 +28,7 @@ T1000-E has a built-in antenna.
 
 <img src="assets/wio_t10000/wio_1.jpg" width="400">
 
-| ****5.375  dBm there**** | ****11.28125 dBm here**** |
+| **5.375  dBm there** | **11.28125 dBm here** |
 
 
 ### SenseCAP Card Tracker T1000-E
@@ -36,7 +36,7 @@ T1000-E has a built-in antenna.
 
 At first the results were not looking great at all. After collecting samples, I got the following numbers:
 
-| ****2.1 dBm there**** | ****9.6 dBm here**** |
+| **2.1 dBm there** | **9.6 dBm here** |
 
 I expected this — it fits well into what I thought the results should be: a small built-in antenna isn't even remotely close to a proper external antenna. But I had a feeling I was missing something.
 
