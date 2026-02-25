@@ -44,7 +44,7 @@ Orientation! Both antennas were oriented vertically, but the T1000-E antenna can
 
 So I turned the T1000-E 90 degrees and ran the tests again.
 
-| ****6.0625 dBm there**** | ****10.25 dBm here**** |
+| **6.0625 dBm there** | **10.25 dBm here** |
 
 The observed improvement after rotating the device likely results from changes in radiation pattern interaction with the nearby window surface and multipath reflections.
 
